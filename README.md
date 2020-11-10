@@ -14,7 +14,7 @@ The Romans wrote numbers using letters - I, V, X, L, C, D, M. (notice these lett
 
 User will input on a textbox of a web page a number in its decimal format and when they click on a button the result of the conversion will be shown in a label.
 
-The user will not be able to convert any number above 3999 or negative and since they never discovered 0 users will not be able to convert that number either.
+The user will not be able to convert any integer number above 3999 or negative and since they never discovered 0 users will not be able to convert that number either.
 
 #### Examples of valid input/output
 
@@ -27,13 +27,12 @@ In Roman numbers 2008 is written as MMVIII:
 ### Considerations:
 
 - You can use any framework or library for the “Views” and modified the code as required.
-- You need to fix the existent or new errors
 - You can add styling if you believe it would provide a plus
 
 ## Contribution
 
-To contribute in this project you need to make a fork of the current repository, in your copy of this project, checkout to develop and create a feature branch like gitflow and start to code.
+To contribute in this project you need to make a fork of the current repository, in your copy of this project, checkout to main and create a your own branch like gitflow and start to code.
 
 ### Pull Request
 
-Once your feature is finished, merge it into develop and create a Pull Request with a message explaining what your feature does and if is needed install some extra dependencies.
+Once your feature is finished, merge it into main and create a Pull Request with a message explaining what your feature does and if is needed install some extra dependencies.
